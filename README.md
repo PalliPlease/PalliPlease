@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PalliPlease
-- 👀 I’m interested in ...
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me parvjoshi2k4@gmail.com
 
 <!---
